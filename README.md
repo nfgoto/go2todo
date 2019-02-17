@@ -1,6 +1,6 @@
 # Go2Todo
 
-Angular (TypeScript) Task Interactive List Prototype App
+Angular (TypeScript) Interactive Task List Prototype App
 
 Interactive Task List
 
