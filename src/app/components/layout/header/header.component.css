@@ -1,0 +1,10 @@
+.header {
+    background: lightcyan;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.header h1 {
+    color: black;
+}

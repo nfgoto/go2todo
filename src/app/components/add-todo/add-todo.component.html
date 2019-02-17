@@ -1,0 +1,7 @@
+<!-- ng-model = two way binding hence [] and ( ) -->
+<!-- need to import FormModule to use ngModel -->
+
+<form class="form-group" (ngSubmit)="onSubmit()">
+  <input type="text" class="form-control" name="title" [(ngModel)]="title" placeholder="What's up ?">
+  <input type="submit" value="ADD" class="btn btn-primary">
+</form>

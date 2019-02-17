@@ -1,0 +1,10 @@
+<div class="container list-group-item">
+  <div [ngClass]="setClasses()">
+    <p>
+      <!-- pass the current todo to #onToggle on change event -->
+      <input (change)="onToggle(todo)" type="checkbox">
+      {{ todo.title }}
+      <button (click)="onDelete(todo)" class="del btn btn-danger">X</button>
+    </p>
+  </div>
+</div>
