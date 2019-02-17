@@ -11,7 +11,7 @@ Interactive Task List
 - Observables
 - Routing
 
-Github: https://nfgoto.github.io/go2todo 
+Live app: https://nfgoto.github.io/go2todo 
 
 Stack:
 - Angular 7
